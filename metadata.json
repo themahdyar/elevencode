@@ -1,0 +1,6 @@
+{
+  "name": "XHTTP Relay for Appwrite",
+  "description": "An HTTP relay for Xray/V2Ray, adapted from Vercel-XHTTP to run on Appwrite Functions or Next.js.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
